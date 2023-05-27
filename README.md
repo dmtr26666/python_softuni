@@ -1,2 +1,2 @@
 # python_softuni
-Every exercise I've solved from the python path in SoftUni.
+Exercises from SoftUni python path(2023-)
